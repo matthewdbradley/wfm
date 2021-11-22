@@ -1,10 +1,10 @@
 # Introduction to Scientific Workflow Managers
 
-This repository provides a starting point to using three popular scientific workflow managers - Nextflow, Cromwell, and Snakemake. This material is used as instructional material for the Research IT workshop. 
+This repository provides a starting point to using three popular scientific workflow managers - Nextflow, Cromwell, and Snakemake. 
 
 ## Getting Started
 
-In order to use these workflow managers, first download Miniconda3. This can be done on the command line (assuming you are using our Linux cluster) by doing the following. First, navigate to a directory in which you have at least a few GB of available space. Then, use the following commands.
+In order to use these workflow managers, first download Miniconda3. This can be done on the command line by doing the following. First, navigate to a directory in which you have at least a few GB of available space. Then, use the following commands.
 
 ```
 wget https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Linux-x86_64.sh
