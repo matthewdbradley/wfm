@@ -12,4 +12,3 @@ dependencies:
   - samtools=1.11
   - mamba
   - snakemake
-prefix: /home/bradlma/miniconda3/envs/wfm
